@@ -26,3 +26,6 @@ https://www.kaggle.com/code/kakauandme/tensorflow-deep-nn/notebook
 
 #######  Full Preprocessing Tutorial
 https://www.kaggle.com/code/gzuidhof/full-preprocessing-tutorial/notebook
+
+######## Analysis Tutorial 
+https://www.kaggle.com/code/tsilveira/applying-heatmaps-for-categorical-data-analysis
