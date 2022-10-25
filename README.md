@@ -29,3 +29,6 @@ https://www.kaggle.com/code/gzuidhof/full-preprocessing-tutorial/notebook
 
 ######## Analysis Tutorial 
 https://www.kaggle.com/code/tsilveira/applying-heatmaps-for-categorical-data-analysis
+
+######## Exploration of Action - MoA EDA
+https://www.kaggle.com/code/headsortails/explorations-of-action-moa-eda
