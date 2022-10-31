@@ -61,10 +61,36 @@
 
 [kaggle Tutorial](https://www.kaggle.com/learn/geospatial-analysis)
 
-
 ## Error-Analysis
 
 [kaggel notebook](https://www.kaggle.com/code/jannen/model-error-analysis)
+
+## Time-Series
+
+[All resources](https://medium.com/@ebrahimhaqbhatti516/30-of-the-best-kaggle-notebooks-to-learn-timeseries-forecasting-8c9a10e5eef2)
+
+[Everything you can do with a time series](https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series/notebook)
+
+[TS-0: the basics](https://www.kaggle.com/code/konradb/ts-0-the-basics)
+
+[TS-1a: smoothing methods](https://www.kaggle.com/code/konradb/ts-1a-smoothing-methods/notebook)
+
+[TS-1b: Prophet](https://www.kaggle.com/code/konradb/ts-1b-prophet/notebook)
+
+[Part 2: ARMA,TS-2: Linear Vision](https://www.kaggle.com/code/konradb/ts-2-linear-vision?scriptVersionId=101499413)
+
+[TS-3: Time series for finance](https://www.kaggle.com/code/konradb/ts-3-time-series-for-finance/notebook)
+
+[TS-4: sales and demand forecasting](https://www.kaggle.com/code/konradb/ts-4-sales-and-demand-forecasting/notebook)
+
+[TS-5: Automatic for the people](https://www.kaggle.com/code/konradb/ts-5-automatic-for-the-people)
+
+[TS-6: Deep learning for TS - RNN and friends](https://www.kaggle.com/code/konradb/ts-6-deep-learning-for-ts-rnn-and-friends?scriptVersionId=108938187)
+
+[Time series Basics : Exploring traditional TS](https://www.kaggle.com/code/jagangupta/time-series-basics-exploring-traditional-ts/notebook)
+
+[Time Series Prediction Tutorial with EDA](https://www.kaggle.com/code/kanncaa1/time-series-prediction-tutorial-with-eda/notebook)
+
 
 
 
