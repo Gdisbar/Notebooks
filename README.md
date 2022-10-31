@@ -92,8 +92,13 @@
 [Time Series Prediction Tutorial with EDA](https://www.kaggle.com/code/kanncaa1/time-series-prediction-tutorial-with-eda/notebook)
 
 
+## Genetic-Algorithm
 
+[Tutorial of Genetic Algorithm](https://www.kaggle.com/code/zzettrkalpakbal/tutorial-of-genetic-algorithm)
 
+[Genetic Algorithm with DEAP](https://www.kaggle.com/code/marlesson/genetic-algorithm-with-deap)
+
+[Mushroom Classification using Genetic Algorithm](https://www.kaggle.com/code/alincijov/mushroom-classification-using-genetic-algorithm)
 
 
 
