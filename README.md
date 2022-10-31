@@ -1,4 +1,7 @@
 # Notebooks
+## Tutorial-Series-1
+
+## Tutorial-Series-2
 
 [Distribution of Test vs. Training data](https://www.kaggle.com/code/nanomathias/distribution-of-test-vs-training-data/notebook)
 
@@ -19,3 +22,36 @@
 [Analysis Tutorial](https://www.kaggle.com/code/tsilveira/applying-heatmaps-for-categorical-data-analysis)
 
 [Exploration of Action - MoA EDA](https://www.kaggle.com/code/headsortails/explorations-of-action-moa-eda)
+
+
+## Recommendation-System
+
+[Product Recommendation System for e-commerce](https://www.kaggle.com/code/shawamar/product-recommendation-system-for-e-commerce)
+
+[Book Recommendation System with Machine Learning](https://www.kaggle.com/code/midouazerty/book-recommendation-system-with-machine-learning/notebook)
+
+[Restaurant Recommendation System Using ML](https://www.kaggle.com/code/midouazerty/restaurant-recommendation-system-using-ml/notebook)
+
+[Recommender Systems in Python 101](https://www.kaggle.com/code/gspmoreira/recommender-systems-in-python-101)
+
+[Movie Recommender Systems](https://www.kaggle.com/code/rounakbanik/movie-recommender-systems)
+
+## Geospacial-Analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
