@@ -62,7 +62,9 @@
 [kaggle Tutorial](https://www.kaggle.com/learn/geospatial-analysis)
 
 
+## Error-Analysis
 
+[kaggel notebook](https://www.kaggle.com/code/jannen/model-error-analysis)
 
 
 
