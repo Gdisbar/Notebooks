@@ -22,7 +22,7 @@
 
 [Learn Machine Learning](https://www.kaggle.com/code/dansbecker/learn-machine-learning/notebook)
 
-[Gold Price Prediction using ML] (https://www.kaggle.com/code/khashayarrahimi94/gold-price-prediction-using-ml/notebook)
+[Gold Price Prediction using ML](https://www.kaggle.com/code/khashayarrahimi94/gold-price-prediction-using-ml/notebook)
 
 ## Tutorial-Series-2
 
