@@ -22,6 +22,8 @@
 
 [Learn Machine Learning](https://www.kaggle.com/code/dansbecker/learn-machine-learning/notebook)
 
+[Gold Price Prediction using ML] (https://www.kaggle.com/code/khashayarrahimi94/gold-price-prediction-using-ml/notebook)
+
 ## Tutorial-Series-2
 
 [Distribution of Test vs. Training data](https://www.kaggle.com/code/nanomathias/distribution-of-test-vs-training-data/notebook)
