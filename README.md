@@ -46,6 +46,15 @@
 
 [Exploration of Action - MoA EDA](https://www.kaggle.com/code/headsortails/explorations-of-action-moa-eda)
 
+## Apriori,Ensemble
+
+[Apriori Association Rules | Grocery Store](https://www.kaggle.com/code/ekrembayar/apriori-association-rules-grocery-store)
+
+[Apriori Algorithm or Market Basket Analysis](https://www.kaggle.com/code/rockystats/apriori-algorithm-or-market-basket-analysis)
+
+[Apriori Algorithm](https://www.kaggle.com/code/nandinibagga/apriori-algorithm)
+
+[Ensemble ML Algorithms : Bagging, Boosting, Voting](https://www.kaggle.com/code/faressayah/ensemble-ml-algorithms-bagging-boosting-voting/notebook)
 
 ## Recommendation-System
 
