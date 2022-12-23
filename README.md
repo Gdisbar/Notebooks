@@ -102,6 +102,7 @@
 
 [Time Series Prediction Tutorial with EDA](https://www.kaggle.com/code/kanncaa1/time-series-prediction-tutorial-with-eda/notebook)
 
+[Special one](https://github.com/nicolasfauchereau/Auckland_Cycling/blob/master/notebooks/Auckland_cycling_and_weather.ipynb)
 
 ## Genetic-Algorithm
 
